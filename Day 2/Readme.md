@@ -19,3 +19,8 @@ Youtube Link: [Link](https://youtu.be/GA0u6WM7_Eo)
      [1,2,'apple'] * 2 => [1, 2, 'apple', 1, 2, 'apple']
      ```
 Youtube Link: [Link](https://youtu.be/wlS_fWxIPyQ)
+- Sets, a collection of non repeating objects which is constucted in a way we can only retrive data through operations (meaning can't retrive item through index).
+  1. Set works like a Set in maths, where opeation like intersection, diffrence can be performed.
+  2. Defined as ```{"object"}```.
+- Dictionary, same as a hash table, defined as ``` {"key":"value"}```.
+- Tuples, collection of constants, defined with ```("object")```.
