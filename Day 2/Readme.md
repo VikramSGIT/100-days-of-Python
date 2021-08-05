@@ -3,8 +3,14 @@ Youtube Link: [Link](https://youtu.be/GA0u6WM7_Eo)
 - Boolean variable and operations.
 - Strings and string operations.
 - A data structure called List (represented as []).
+
+
+Ex:
+  ```python 
+  ["Vikram", 1, "Vikram", 'a', ["Nested List (unformatted)"]]
+  ```
   1. Lists can have duplicates.
-  1. `list.append(object)` inserts object at the end of the list unformatted.
+  1. `list.append(object)` inserts object at the end of the list unformatted (in other words appends raw data).
   2. `list.insert(object, index)` inserts object at the specified index unformatted.
   3. `list.extend(object)` inserts objects with formatting (if the specified object is a list, inserts the objects in it instead of appending it as list).
   3. `object[index]` retrieves object at the specified index.
